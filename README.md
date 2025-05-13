@@ -29,7 +29,7 @@
 ---
 
 ### ⚡ VETRAS: Verifiable AI Testing & Rating System
-
+### CA: EmX3JEYKFqsvrvLGu4LvEPE4GghGQG2HoJZGh1sMU6Eu
 **VETRAS** is a decentralized protocol built on Solana that provides trustworthy validation for AI models. By combining blockchain's immutability with a distributed validator network, VETRAS creates a universal trust layer for AI systems.
 
 **Key Features:**
